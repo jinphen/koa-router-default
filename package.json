@@ -1,0 +1,24 @@
+{
+  "name": "koa-router-default",
+  "version": "0.0.1",
+  "description": "koa router default",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinphen/koa-router-default.git"
+  },
+  "keywords": [
+    "koa",
+    "route",
+    "defalt"
+  ],
+  "author": "jinphen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jinphen/koa-router-default/issues"
+  },
+  "homepage": "https://github.com/jinphen/koa-router-default#readme"
+}
